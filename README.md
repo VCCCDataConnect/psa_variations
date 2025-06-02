@@ -26,7 +26,7 @@ The project used the following data sources:
 
 Stata and R were used to carry out data cleaning, transformations and analysis.
 
-### 1. Data cleaning
+### 1. Data cleaning and cohort creation
 
 Primary care patients were drawn from the Patron primary care database. Some of the work was done in R and other parts in Stata
 
